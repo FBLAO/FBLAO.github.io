@@ -3,7 +3,7 @@ theme: jekyll-theme-leap-day
 # Site settings
 title: FBLAO Blog                    # 你的博客网站标题
 SEOTitle: FBLAO的博客 | FBLAO Blog		# SEO 标题
-description: "Hey"	   	   # 随便说点，描述一下
+description: "孤独的人儿，在这冰冷的世界相互取暖吧"	   	   # 随便说点，描述一下
 
 # SNS settings      
 github_username: FBLAO     # 你的github账号
